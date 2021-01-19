@@ -11,6 +11,19 @@
 ![Laisa's github stats](https://github-readme-stats.vercel.app/api?username=Azzyew&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
-- :woman_technologist: I’m currently working on IFRS - Câmpus Osório's Incubadora Project and on some freelance projects
+- :woman_technologist: I’m currently open to work!
 - :books: My focus is on the front-end stack, especifically React.js
 - ⚡ Interesting facts: I started studying programming at 13 years-old; I (try to) play the guitar
+
+:computer: Technologies I'm familiar with:
+
+- JavaScript
+- HTML
+- CSS
+- React.js
+- TypeScript
+- Node.js
+- Next.js
+- Redux
+- MySQL
+- Figma
