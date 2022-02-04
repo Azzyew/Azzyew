@@ -23,5 +23,4 @@
 - Node.js
 - Next.js
 - Redux
-- MySQL
 - AntDesign
