@@ -11,7 +11,6 @@
 ![Laisa's github stats](https://github-readme-stats.vercel.app/api?username=Azzyew&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
-- :woman_technologist:  I’m currently open to work!
 - :books:  My focus is on the front-end stack, especifically React.js
 
 :computer: Technologies I'm familiar with:
@@ -25,4 +24,4 @@
 - Next.js
 - Redux
 - MySQL
-- Figma
+- AntDesign
