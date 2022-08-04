@@ -16,11 +16,13 @@
 :computer: Technologies I'm familiar with:
 
 - JavaScript
+- TypeScript
 - HTML
 - CSS
 - React.js
-- TypeScript
 - Node.js
 - Next.js
+- Nest.js
 - Redux
 - AntDesign
+- SQL and NoSQL databases
