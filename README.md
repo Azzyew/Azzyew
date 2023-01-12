@@ -7,8 +7,8 @@
 <img alt="Gmail" src="https://img.shields.io/badge/-Email-282A36?style=for-the-badge&logo=Gmail&logoColor=white)" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzyew&theme=radical&layout=compact&hide=css)
-![Laisa's github stats](https://github-readme-stats.vercel.app/api?username=Azzyew&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Azzyew&theme=radical&layout=compact&hide=css)
+![Laisa's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Azzyew&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
 - :books:  My focus is on the front-end stack, especifically React.js
