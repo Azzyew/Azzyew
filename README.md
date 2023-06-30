@@ -11,7 +11,7 @@
 ![Laisa's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Azzyew&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
-- :books:  My focus is on the front-end stack, especifically React.js
+- :books:  My focus is on the front-end stack, especifically React.js and Vue.js
 
 :computer: Technologies I'm familiar with:
 
@@ -20,9 +20,10 @@
 - HTML
 - CSS
 - React.js
-- Node.js
 - Next.js
+- Vue.js
+- TailwindCSS
+- Node.js
 - Nest.js
 - Redux
-- AntDesign
 - SQL and NoSQL databases
