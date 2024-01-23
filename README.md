@@ -8,10 +8,9 @@
 </a>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Azzyew&theme=radical&layout=compact&hide=css)
-![Laisa's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Azzyew&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-
-- :books:  My focus is on the front-end stack, especifically React.js and Vue.js
+- :books:  My focus is on the front-end stack, especifically React.js and Next.js
+- :star_struck: I enjoy making accessible and maintainable websites, taking into account both the user and developer experiences
 
 :computer: Technologies I'm familiar with:
 
@@ -19,11 +18,13 @@
 - TypeScript
 - HTML
 - CSS
+- SASS
 - React.js
 - Next.js
 - Vue.js
 - TailwindCSS
+- Redux
+- TanStack Query
 - Node.js
 - Nest.js
-- Redux
 - SQL and NoSQL databases
