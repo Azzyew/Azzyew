@@ -9,8 +9,8 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Azzyew&theme=radical&layout=compact&hide=css)
 
-- :books:  My focus is on the front-end stack, especifically React.js and Next.js
-- :star_struck: I enjoy making accessible and maintainable websites, taking into account both the user and developer experiences
+- :books:  My focus is on the front-end stack, especifically React.js and React Native!
+- :star_struck: I enjoy making accessible and maintainable websites and applications, taking into account both the user and developer experiences
 
 :computer: Technologies I'm familiar with:
 
