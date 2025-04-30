@@ -14,17 +14,17 @@
 
 :computer: Technologies I'm familiar with:
 
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- SASS
-- React.js
-- Next.js
-- Vue.js
-- TailwindCSS
-- Redux
-- TanStack Query
-- Node.js
-- Nest.js
-- SQL and NoSQL databases
+- Core:
+  - JavaScript
+  - TypeScript
+  - HTML
+  - CSS
+  - SQL and NoSQL databases
+
+- Frameworks and libraries:
+  - React.js
+  - React Native
+  - Next.js
+  - Vue.js
+  - ExpressJS
+  - Nest.js
